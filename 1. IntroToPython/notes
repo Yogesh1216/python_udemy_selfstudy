@@ -1,0 +1,34 @@
+types of Programming language - low level language | high level language
+
+high level language -
+- compiler based - C , C++
+  interpreter based -php , js
+  hybrid - python , java , c#
+
+Compiler -    .c -> machine code (.exe)
+         1) takes a program file and generated new program file.
+         2) if there are no errors than only translaction is done in machine code.
+         3) translaction is done only once
+interpreter -
+         1) it converts code to machine code line by line and executes it.
+         2) no new file is created.
+         3) everytime translactioin is done.
+hybrid -
+program.py ->(compiler-check for errors) program.pyc (hidden file)(bytecode) -> (interpreter) machine code.
+1) bytecode is converted to machine code using (pvm) python virtual machine.
+2) python is platform independent as every OS has its own pvm.
+--compiler based language are faster than interpreter language.
+
+- styles of programming:
+  functional/procedural programming
+  oops - classes and objects
+  modular programming - contain classes and functions.
+
+- features of python:
+    simple , easy to learn , open source , platform independent , huge library
+
+- areas of programming:
+AI , data science , machine learning , mobile apps , web programming , etc.
+
+
+
